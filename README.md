@@ -23,3 +23,4 @@ Tambahkan hasil tangkapan layar aplikasi v0.3 dan v0.4 di `docs/screenshots/`, l
 
 Tulis analisis minimal 500 kata dengan kata-kata sendiri di Google Docs. Bahas JavaBeans getter/setter, `setBackground` dan `setOpaque`, `setSize`/`setPreferredSize`/`pack`, alasan menghindari null layout dan `setBounds`, pemisahan Model-View, serta logical fonts dan `deriveFont`. Sebelum submit, ganti placeholder ini dengan tautan Google Docs Anda: **[Tautan Google Docs TP10 — tambahkan di sini]**.
 https://docs.google.com/document/d/1fw9A7OoOq4ELVIJI9e3-6jf3Vxrre9f0GTeqf01Z0e4/edit?usp=sharing
+<img width="1917" height="1116" alt="Screenshot 2026-10-27 172249" src="https://github.com/user-attachments/assets/4f7c354b-0d12-478d-bbe3-2a17b606aa3c" />
